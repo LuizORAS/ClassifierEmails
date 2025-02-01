@@ -13,10 +13,10 @@ app = FastAPI(
 )
 
 origins = [
-    "http://localhost",
+    "https://email-automation-front-kappa.vercel.app/",
     "http://localhost:8000",
-    "email-automation-front-kappa.vercel.app/home",
-    "email-automation-front-kappa.vercel.app",
+    "http://email-automation-front-kappa.vercel.app/home",
+    "http://email-automation-front-kappa.vercel.app",
     "http://localhost:5173",
 ]
 
