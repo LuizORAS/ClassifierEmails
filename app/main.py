@@ -18,6 +18,9 @@ origins = [
     "http://email-automation-front-kappa.vercel.app/home",
     "http://email-automation-front-kappa.vercel.app",
     "http://localhost:5173",
+    "https://email-automation-front-luizs-projects-4d67f0b6.vercel.app/",
+    "https://email-automation-front-git-master-luizs-projects-4d67f0b6.vercel.app/",
+    "https://vercel.com/luizs-projects-4d67f0b6/email-automation-front/8yBGWKmgDkaSivgy88uB8MX5zzcq"
 ]
 
 app.add_middleware(
